@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm @inayatur2007
 
-I'm a passionate content writer with a knack for creating engaging and informative content. With a strong background in [your niche or relevant experience], I strive to deliver high-quality content that meets the needs of my clients and resonates with their target audience.
+I'm a passionate content writer with a knack for creating engaging and informative content. With a strong background in 5 years of experience, I strive to deliver high-quality content that meets the needs of my clients and resonates with their target audience.
 
 ## 🖊️ Skills
 
@@ -11,18 +11,10 @@ I'm a passionate content writer with a knack for creating engaging and informati
 - **Editing and Proofreading**: Polishing content to perfection with keen attention to detail.
 
 
-### [Project Title 2](link-to-project-2)
-- Description: Brief overview of the project and your role.
-- Skills Used: List of skills utilized for this project.
-
-## 🌟 Testimonials
-
-> "Inayatur is an exceptional writer who consistently delivers high-quality content on time. His attention to detail and ability to adapt to different tones and styles make him a valuable asset to any project." - Client Name, Company
-
 ## 📚 Education
 
-- **Bachelor of Arts in English Literature** - University Name, Year
-- **Certification in Content Marketing** - Issuing Institution, Year
+- **Bachelor of Arts in B.com** - RDS College, 2022
+- **Certification in Content Marketing** - AMU, 2024
 
 ## 🌐 Connect with Me
 
