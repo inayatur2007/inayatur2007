@@ -18,7 +18,7 @@ I'm a passionate content writer with a knack for creating engaging and informati
 
 ## 🌐 Connect with Me
 
-- [Upwork Profile]([link-to-your-upwork-profile](https://www.upwork.com/freelancers/~01bef293a81e909b21))
+- [Upwork Profile](https://www.upwork.com/freelancers/~01bef293a81e909b21)
 - [LinkedIn](https://www.linkedin.com/in/inayatur-rahman)
 - [Email](mailto:inayatur2007@gmail.com)
 
